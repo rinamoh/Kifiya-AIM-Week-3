@@ -10,11 +10,15 @@ This repository contains the code and deliverables for Week 3 of the 10 Academy 
 - Build and evaluate machine learning models for claim severity and premium optimization.
 
 ## Repository Structure
-- `/data`: Stores raw and processed datasets (tracked with DVC).
+- `.github/workflows`: GitHub Actions configuration for CI/CD.
 - `/notebooks`: Jupyter notebooks for EDA and modeling.
 - `/scripts`: Python scripts for data processing and modeling.
-- `/reports`: Interim and final reports.
+- `/src`: Source code for modular application logic.
+- `/tests`: Unit tests for code validation.
+- `.gitignore`: Files to exclude from version control.
+- `LICENSE`: Project license file.
 - `README.md`: Project overview and setup instructions.
+- `requirements.txt`: Python package dependencies.
 
 
 
